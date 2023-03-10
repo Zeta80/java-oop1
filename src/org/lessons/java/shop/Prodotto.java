@@ -80,6 +80,7 @@ public class Prodotto {
     public String toString() {
         return "Modello: " + nome + ", descrizione: " + descrizione + ", prezzo: " + prezzo + ", iva: " + iva;
     }
+    //JAVASSONE 🗿☕
 }
 
 

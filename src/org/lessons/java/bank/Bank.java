@@ -59,5 +59,6 @@ public class Bank {
             } while (scelta != 4);
 
             System.out.println("Grazie per aver usato il Codice Mirko Stoner per la finanza truffaldina");
+            //Truffaldina??? oh my SASSONE! 🗿
     }
 }
